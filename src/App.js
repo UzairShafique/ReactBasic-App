@@ -24,7 +24,7 @@ function App ({name})  {
   <div className="contents">
 
     <div className="main">
-     <h2 >They are our partner Thank You BootCamp2020</h2>
+     <h2 className="backgrounds">They are our partner Thank You BootCamp2020</h2>
    <div className="logos"><img src={logo} alt="piaic" width="150px" height="150px"/>
    </div>
    <div className="logos"><img src={logopana} alt="panacloud" width="180px" height="150px"/><br/>
@@ -32,7 +32,7 @@ function App ({name})  {
   
    <div className="contentmain" >
      <br/>
-     <h2 className="backgrounds">React Assignment of React Tutorial I tried My <strong className="spans">Best !</strong></h2>
+     <h2 >React Assignment of React Tutorial I tried My <strong className="spans">Best !</strong></h2>
 </div>
 
     <div className="names">
@@ -46,7 +46,7 @@ function App ({name})  {
       <div className="expressions">
       <strong>{number1+number2} </strong>is equal to <strong>{number3}</strong>
     </div>
-   <div className="ends">Made By Ozir Shafique</div>
+   <div className="ends">Made By Ozair Shafique</div>
     </div>
     </div>
     
